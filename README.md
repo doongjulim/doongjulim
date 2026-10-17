@@ -18,13 +18,13 @@
 </div>
 
 <div align="center">
-  <!--
-  ![DongJu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongjulim&show_icons=true&theme=transparent)
-  ![Top language](https://github-readme-stats.vercel.app/api/top-langs/?username=dongjulim&layout=compact&theme=transparent)
-  -->
+  
+  ![DongJu's GitHub stats](https://github-readme-stats.vercel.app/api?username=doongjulim&show_icons=true&theme=transparent)
+  ![Top language](https://github-readme-stats.vercel.app/api/top-langs/?username=doongjulim&layout=compact&theme=transparent)
+  
 
 
-  [![DongJu's Graph](https://activity-graph.herokuapp.com/graph?username=dongjulim&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![DongJu's Graph](https://activity-graph.herokuapp.com/graph?username=doongjulim&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 <!--
 **doongjulim/doongjulim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
