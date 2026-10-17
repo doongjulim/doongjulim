@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&section=header&reversal=false&text=Hello%2C+HappyDay%21&textBg=false&fontColor=1A444F&fontSize=70&fontAlign=49&fontAlignY=49&rotate=0&strokeWidth=0&desc=Dongju%27s+GitHub&descSize=20&descAlign=72&descAlignY=65)
+
 ## Hi there 👋
 
 
@@ -11,13 +13,18 @@
   ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+
+
 </div>
 
 <div align="center">
-  
+  <!--
   ![DongJu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongjulim&show_icons=true&theme=transparent)
   ![Top language](https://github-readme-stats.vercel.app/api/top-langs/?username=dongjulim&layout=compact&theme=transparent)
+  -->
 
+
+  [![DongJu's Graph](https://activity-graph.herokuapp.com/graph?username=dongjulim&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 <!--
 **doongjulim/doongjulim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
