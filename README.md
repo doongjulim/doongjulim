@@ -4,9 +4,10 @@
 
 
 <p align="center">
-  ⚡ My Tech Stack
+ ## ⚡ My Tech Stack
 </p>
 <div align="center">
+
 
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
   ![JAVA Script](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
@@ -14,10 +15,19 @@
   ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 </div>
 
+<p align="center">
+  ## ⚡ My GitHub Stats
+</p>
+
 <div align="center">
   
-  ## ![DongJu's GitHub stats](https://github-readme-stats.vercel.app/api?username=doongjulim&show_icons=true&theme=transparent)
+  ![DongJu's GitHub stats](https://github-readme-stats.vercel.app/api?username=doongjulim&show_icons=true&theme=transparent)
 </div>
+
+<p align="center">
+  ## ⚡ My Use Language
+</p>
+
 <div align="center">
   
   ## ![Top language](https://github-readme-stats.vercel.app/api/top-langs/?username=doongjulim&layout=compact&theme=transparent)
