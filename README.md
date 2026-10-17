@@ -11,12 +11,7 @@
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-[(https://github-readme-stats.vercel.app/api?username=dongjulim&show_icons=true&theme=merco)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="center"> 
- ![DongJu's GitHub stats]
-  <img src="https://github-readme-stats.vercel.app/api?username=dongjulim&theme=merco&show_icons=true"/></a>
-</p>
+![DongJu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongjulim&show_icons=true&theme=radical)
 
 <!--
 **doongjulim/doongjulim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
