@@ -3,8 +3,9 @@
 ## Hi there 👋
 
 
+##
 <p align="center">
- ## ⚡ My Tech Stack
+ ⚡ My Tech Stack
 </p>
 <div align="center">
 
