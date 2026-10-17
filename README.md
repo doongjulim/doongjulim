@@ -12,32 +12,23 @@
   [JAVA Script](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
   ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-
 </div>
 
 <div align="center">
-  ##
   
-  ![DongJu's GitHub stats](https://github-readme-stats.vercel.app/api?username=doongjulim&show_icons=true&theme=transparent)
+  ## ![DongJu's GitHub stats](https://github-readme-stats.vercel.app/api?username=doongjulim&show_icons=true&theme=transparent)
 </div>
 <div align="center">
-  ##
   
-  ![Top language](https://github-readme-stats.vercel.app/api/top-langs/?username=doongjulim&layout=compact&theme=transparent)
+  ## ![Top language](https://github-readme-stats.vercel.app/api/top-langs/?username=doongjulim&layout=compact&theme=transparent)
 </div>
 
 <div align="center">
-  ##
-
-  [![DongJu's graph](https://github-readme-activity-graph.vercel.app/graph?username=doongjulim&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
   
-
+  ## [![DongJu's graph](https://github-readme-activity-graph.vercel.app/graph?username=doongjulim&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
+
 <!--
 **doongjulim/doongjulim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
