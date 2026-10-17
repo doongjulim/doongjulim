@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&section=header&reversal=false&text=Hello%2C+HappyDay%21&textBg=false&fontColor=1A444F&fontSize=70&fontAlign=49&fontAlignY=49&rotate=0&strokeWidth=0&desc=Dongju%27s+GitHub&descSize=20&descAlign=72&descAlignY=65)
+![header](https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&section=header&reversal=false&text=Hello%2C+HappyDay%21&textBg=false&fontColor=1A444F&fontSize=70&fontAlign=49&fontAlignY=49&rotate=0&strokeWidth=0&desc=Dongju%27s+GitHub&descSize=20&descAlign=72&descAlignY=65)
 
 ## Hi there 👋
 
@@ -24,7 +24,7 @@
   
 
 
-  [![DongJu's Graph](https://activity-graph.herokuapp.com/graph?username=doongjulim&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  ![DongJu's Graph](https://activity-graph.herokuapp.com/graph?username=doongjulim&theme=xcode)
 </div>
 <!--
 **doongjulim/doongjulim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
