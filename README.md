@@ -24,11 +24,14 @@
 </div>
 
 
+<!--
 <div align="center">
   
   ## [![DongJu's graph](https://github-readme-activity-graph.vercel.app/graph?username=doongjulim&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
+
+-->
 
 <!--
 **doongjulim/doongjulim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
