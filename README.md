@@ -2,11 +2,12 @@
 
 ## Hi there 👋
 
-
-##
 <p align="center">
  ⚡ My Tech Stack
 </p>
+
+##
+
 <div align="center">
 
 
@@ -17,8 +18,10 @@
 </div>
 
 <p align="center">
-  ## ⚡ My GitHub Stats
+  ⚡ My GitHub Stats
 </p>
+
+##
 
 <div align="center">
   
@@ -26,14 +29,17 @@
 </div>
 
 <p align="center">
-  ## ⚡ My Use Language
+  ⚡ My Use Language
 </p>
+
+##
 
 <div align="center">
   
-  ## ![Top language](https://github-readme-stats.vercel.app/api/top-langs/?username=doongjulim&layout=compact&theme=transparent)
+  ![Top language](https://github-readme-stats.vercel.app/api/top-langs/?username=doongjulim&layout=compact&theme=transparent)
 </div>
 
+##
 
 <!--
 <div align="center">
